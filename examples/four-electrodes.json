@@ -1,0 +1,38 @@
+{
+  "schema": "ring-protocol-lab/v1",
+  "config": {
+    "electrodes": 4,
+    "drive_step": 1,
+    "index_base": 0
+  },
+  "rows": [
+    {
+      "excitation": 0,
+      "drive_plus": 0,
+      "drive_minus": 1,
+      "measure_plus": 2,
+      "measure_minus": 3
+    },
+    {
+      "excitation": 1,
+      "drive_plus": 1,
+      "drive_minus": 2,
+      "measure_plus": 3,
+      "measure_minus": 0
+    },
+    {
+      "excitation": 2,
+      "drive_plus": 2,
+      "drive_minus": 3,
+      "measure_plus": 0,
+      "measure_minus": 1
+    },
+    {
+      "excitation": 3,
+      "drive_plus": 3,
+      "drive_minus": 0,
+      "measure_plus": 1,
+      "measure_minus": 2
+    }
+  ]
+}
