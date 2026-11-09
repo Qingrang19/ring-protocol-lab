@@ -1,0 +1,234 @@
+{
+  "schema": "ring-protocol-lab/v1",
+  "config": {
+    "electrodes": 8,
+    "drive_step": 2,
+    "index_base": 1
+  },
+  "rows": [
+    {
+      "excitation": 1,
+      "drive_plus": 1,
+      "drive_minus": 3,
+      "measure_plus": 4,
+      "measure_minus": 5
+    },
+    {
+      "excitation": 1,
+      "drive_plus": 1,
+      "drive_minus": 3,
+      "measure_plus": 5,
+      "measure_minus": 6
+    },
+    {
+      "excitation": 1,
+      "drive_plus": 1,
+      "drive_minus": 3,
+      "measure_plus": 6,
+      "measure_minus": 7
+    },
+    {
+      "excitation": 1,
+      "drive_plus": 1,
+      "drive_minus": 3,
+      "measure_plus": 7,
+      "measure_minus": 8
+    },
+    {
+      "excitation": 2,
+      "drive_plus": 2,
+      "drive_minus": 4,
+      "measure_plus": 5,
+      "measure_minus": 6
+    },
+    {
+      "excitation": 2,
+      "drive_plus": 2,
+      "drive_minus": 4,
+      "measure_plus": 6,
+      "measure_minus": 7
+    },
+    {
+      "excitation": 2,
+      "drive_plus": 2,
+      "drive_minus": 4,
+      "measure_plus": 7,
+      "measure_minus": 8
+    },
+    {
+      "excitation": 2,
+      "drive_plus": 2,
+      "drive_minus": 4,
+      "measure_plus": 8,
+      "measure_minus": 1
+    },
+    {
+      "excitation": 3,
+      "drive_plus": 3,
+      "drive_minus": 5,
+      "measure_plus": 1,
+      "measure_minus": 2
+    },
+    {
+      "excitation": 3,
+      "drive_plus": 3,
+      "drive_minus": 5,
+      "measure_plus": 6,
+      "measure_minus": 7
+    },
+    {
+      "excitation": 3,
+      "drive_plus": 3,
+      "drive_minus": 5,
+      "measure_plus": 7,
+      "measure_minus": 8
+    },
+    {
+      "excitation": 3,
+      "drive_plus": 3,
+      "drive_minus": 5,
+      "measure_plus": 8,
+      "measure_minus": 1
+    },
+    {
+      "excitation": 4,
+      "drive_plus": 4,
+      "drive_minus": 6,
+      "measure_plus": 1,
+      "measure_minus": 2
+    },
+    {
+      "excitation": 4,
+      "drive_plus": 4,
+      "drive_minus": 6,
+      "measure_plus": 2,
+      "measure_minus": 3
+    },
+    {
+      "excitation": 4,
+      "drive_plus": 4,
+      "drive_minus": 6,
+      "measure_plus": 7,
+      "measure_minus": 8
+    },
+    {
+      "excitation": 4,
+      "drive_plus": 4,
+      "drive_minus": 6,
+      "measure_plus": 8,
+      "measure_minus": 1
+    },
+    {
+      "excitation": 5,
+      "drive_plus": 5,
+      "drive_minus": 7,
+      "measure_plus": 1,
+      "measure_minus": 2
+    },
+    {
+      "excitation": 5,
+      "drive_plus": 5,
+      "drive_minus": 7,
+      "measure_plus": 2,
+      "measure_minus": 3
+    },
+    {
+      "excitation": 5,
+      "drive_plus": 5,
+      "drive_minus": 7,
+      "measure_plus": 3,
+      "measure_minus": 4
+    },
+    {
+      "excitation": 5,
+      "drive_plus": 5,
+      "drive_minus": 7,
+      "measure_plus": 8,
+      "measure_minus": 1
+    },
+    {
+      "excitation": 6,
+      "drive_plus": 6,
+      "drive_minus": 8,
+      "measure_plus": 1,
+      "measure_minus": 2
+    },
+    {
+      "excitation": 6,
+      "drive_plus": 6,
+      "drive_minus": 8,
+      "measure_plus": 2,
+      "measure_minus": 3
+    },
+    {
+      "excitation": 6,
+      "drive_plus": 6,
+      "drive_minus": 8,
+      "measure_plus": 3,
+      "measure_minus": 4
+    },
+    {
+      "excitation": 6,
+      "drive_plus": 6,
+      "drive_minus": 8,
+      "measure_plus": 4,
+      "measure_minus": 5
+    },
+    {
+      "excitation": 7,
+      "drive_plus": 7,
+      "drive_minus": 1,
+      "measure_plus": 2,
+      "measure_minus": 3
+    },
+    {
+      "excitation": 7,
+      "drive_plus": 7,
+      "drive_minus": 1,
+      "measure_plus": 3,
+      "measure_minus": 4
+    },
+    {
+      "excitation": 7,
+      "drive_plus": 7,
+      "drive_minus": 1,
+      "measure_plus": 4,
+      "measure_minus": 5
+    },
+    {
+      "excitation": 7,
+      "drive_plus": 7,
+      "drive_minus": 1,
+      "measure_plus": 5,
+      "measure_minus": 6
+    },
+    {
+      "excitation": 8,
+      "drive_plus": 8,
+      "drive_minus": 2,
+      "measure_plus": 3,
+      "measure_minus": 4
+    },
+    {
+      "excitation": 8,
+      "drive_plus": 8,
+      "drive_minus": 2,
+      "measure_plus": 4,
+      "measure_minus": 5
+    },
+    {
+      "excitation": 8,
+      "drive_plus": 8,
+      "drive_minus": 2,
+      "measure_plus": 5,
+      "measure_minus": 6
+    },
+    {
+      "excitation": 8,
+      "drive_plus": 8,
+      "drive_minus": 2,
+      "measure_plus": 6,
+      "measure_minus": 7
+    }
+  ]
+}
